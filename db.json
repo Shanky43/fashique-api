@@ -2538,5 +2538,14 @@
       "product-type": "jacket",
       "id": 259
     }
+  ],
+  "user-detail": [
+    {}
+  ],
+  "carts": [
+    {}
+  ],
+  "orders": [
+    {}
   ]
 }
