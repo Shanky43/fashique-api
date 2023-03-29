@@ -1,5 +1,5 @@
 {
-    "fashique": [
+    "fashique": 
       {
         "men": [
           {
@@ -3022,14 +3022,6 @@
     }
         ]
       }
-    ],
-    "user-detail": [
-      {}
-    ],
-    "carts": [
-      {}
-    ],
-    "orders": [
-      {}
-    ]
+    
+    
   }
